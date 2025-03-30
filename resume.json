@@ -1,0 +1,84 @@
+{
+    "about": {
+        "name": "Aditya Narayan",
+        "title": "Senior Software Engineer",
+        "summary": "Experienced Senior Software Engineer with expertise in mobile and web development. Proven track record of developing enterprise-level applications and leading technical initiatives.",
+        "location": "Bangalore, India",
+        "email": "an160264@gmail.com"
+    },
+    "skills": {
+        "languages": ["C++", "C", "Java", "SQL", "JavaScript", "TypeScript", "Python", "Kotlin", "Bash", "Dart"],
+        "technologies": ["Node.js", "Express.js", "React.js", "Angular", "React Native", "Flutter", "Android SDK", "MySQL", "MongoDB", "Firebase", "HTML5", "CSS3"],
+        "devops_ci_cd": ["Git", "GitHub", "Bitbucket", "Jenkins", "CircleCI", "CI/CD Pipelines", "SVN"],
+        "cloud_infrastructure": ["AWS EC2", "DynamoDB", "Rekognition", "S3", "Lambda"],
+        "software_development": ["JIRA", "Agile", "SDLC"]
+    },
+    "experience": [
+        {
+            "company": "Amazecodes Solutions",
+            "position": "Senior Software Engineer",
+            "location": "Bangalore",
+            "period": "Feb 2020 – Present",
+            "description": "Key achievements:\n- Developed and deployed 5 mobile apps for enterprise clients\n- Built enterprise-level Applicant Tracking System (30% efficiency improvement)\n- Created interactive web dashboards (85% user engagement increase)\n- Implemented Python web frameworks (20% code review time reduction)\n- Designed product configurator (500,000 monthly users)\n- Engineered cloud-based attendance service (40% error reduction)",
+            "technologies": ["Java", "Kotlin", "Python", "Dart", "JavaScript", "TypeScript", "React.js", "React-Native", "Angular", "AWS", "MongoDB", "MySQL", "RealmDB", "DynamoDB"]
+        },
+        {
+            "company": "Coding Superstar",
+            "position": "Software Developer",
+            "location": "Bangalore",
+            "period": "July 2019 – Sept 2019",
+            "description": "Key achievements:\n- Developed three major Edu-Tech platform features (20% user satisfaction increase)\n- Led technical training program for 100+ professionals (30% deployment efficiency improvement)",
+            "technologies": ["Java", "Kotlin", "Python", "Bash", "Git"]
+        },
+        {
+            "company": "Manch",
+            "position": "Android Application Development Intern",
+            "location": "Bangalore",
+            "period": "Feb 2019 – May 2019",
+            "description": "Key achievements:\n- Implemented key features for Manch Social Media App (50% MAU increase)\n- Developed CI/CD proof of concept (80% deployment time reduction)",
+            "technologies": ["Java", "Kotlin", "CircleCI", "Jenkins", "Git"]
+        },
+        {
+            "company": "HION Jobs",
+            "position": "Android Application Development Intern",
+            "location": "Bangalore",
+            "period": "June 2018 – Aug 2018",
+            "description": "Key achievements:\n- Developed HION Jobs Android app (1000+ downloads)\n- Mentored seven interns (30% project contribution increase)",
+            "technologies": ["Java", "Firebase", "Git"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Manav Rachna University",
+            "degree": "B.Tech in Computer Science and Technology",
+            "period": "March 2015 – Dec 2019",
+            "field": "Computer Science"
+        }
+    ],
+    "social": {
+        "github": "https://github.com/atm98",
+        "linkedin": "https://linkedin.com/in/aditya-narayan-atm98",
+        "email": "an160264@gmail.com",
+        "phone": "9821292204"
+    },
+    "projects": [
+        {
+            "name": "Enterprise Mobile Apps",
+            "description": "Developed and deployed 5 mobile applications for enterprise clients on Android and iOS platforms",
+            "technologies": ["Java", "Kotlin", "React Native", "Flutter", "AWS"],
+            "link": "https://github.com/atm98"
+        },
+        {
+            "name": "Applicant Tracking System",
+            "description": "Built an enterprise-level ATS improving user efficiency by 30%",
+            "technologies": ["React.js", "Node.js", "MongoDB", "AWS"],
+            "link": "https://github.com/atm98"
+        },
+        {
+            "name": "Cloud Attendance Service",
+            "description": "Engineered a cloud-based attendance service using facial recognition and geofencing",
+            "technologies": ["Python", "AWS Rekognition", "DynamoDB", "Lambda"],
+            "link": "https://github.com/atm98"
+        }
+    ]
+} 
